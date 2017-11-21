@@ -5,7 +5,7 @@
     "homepage": "http://www.workerman.net",
     "license" : "MIT",
     "require": {
-        "workerman/workerman" : ">=3.1.8",
+        "fage1151/swoole-worker": "^1.1",
         "workerman/channel" : ">=1.0.0"
     },
     "autoload": {
